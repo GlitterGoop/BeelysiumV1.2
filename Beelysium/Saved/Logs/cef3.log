@@ -1,52 +1,35 @@
-[4704:14640:0907/162113.003:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4704:16120:0907/162113.202:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4704:14640:0907/162113.281:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26872:25244:0907/162117.453:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-943A89F7ADD2A961BBACC5E7041B938A will be ignored
-[1416:9232:0907/162120.011:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[1416:9232:0907/162120.045:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[4704:26092:0907/162120.363:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:14640:0907/162121.897:ERROR:device_event_log_impl.cc(196)] [16:21:21.886] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[1416:9232:0907/162133.368:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[1416:9232:0907/162141.348:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[4704:26092:0907/172730.506:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/172758.624:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/173029.643:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/173357.901:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/173538.984:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/173611.124:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/173708.043:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/173809.979:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/173908.393:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/174008.478:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/174108.316:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/174237.192:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/174348.434:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/174838.793:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/174919.352:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/175032.702:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/175058.801:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/175939.439:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/180059.782:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/180142.459:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/180336.820:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/180501.503:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/180540.191:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/180642.513:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/180737.544:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:14640:0907/181003.715:ERROR:device_event_log_impl.cc(196)] [18:10:03.417] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[4704:26092:0907/181310.111:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/181342.795:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/181600.815:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/181629.922:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/181907.342:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182202.572:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182230.679:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182312.876:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182341.006:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182413.153:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182532.070:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182737.422:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/182810.592:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/183321.062:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:26092:0907/183523.657:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4704:14640:0907/183614.665:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17716:16220:0927/152040.969:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17716:16220:0927/152041.266:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[17716:14692:0927/152041.413:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17716:16220:0927/152041.547:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17716:14692:0927/152053.751:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17716:14692:0927/152053.754:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17716:14692:0927/152053.755:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17716:14692:0927/152053.756:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17716:17432:0927/152054.510:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17716:17432:0927/152054.515:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26456:21260:0927/152054.668:ERROR:backend_impl.cc(989)] Critical error found -8
+[26456:21260:0927/152054.780:WARNING:storage_block-inl.h(138)] Failed data load.
+[26456:21260:0927/152054.780:WARNING:storage_block-inl.h(138)] Failed data load.
+[26456:21260:0927/152054.783:ERROR:entry_impl.cc(955)] Failed to save user data
+[19476:24172:0927/152055.078:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7CDC0CAC997A28BD997FC917C710BBC7 will be ignored
+[17264:21328:0927/152640.499:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-C0060D2146115AAEA71576F1158FC198 will be ignored
+[17716:16220:0927/233138.530:ERROR:device_event_log_impl.cc(196)] [23:31:38.515] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17716:16220:0927/233141.577:ERROR:device_event_log_impl.cc(196)] [23:31:41.555] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17716:16220:0927/234534.154:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/234539.070:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235235.962:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235511.935:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235547.238:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235552.277:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235557.344:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235602.344:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235612.397:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235617.433:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235627.498:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235632.526:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235807.925:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235812.980:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235818.030:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235823.037:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17716:16220:0927/235828.037:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
