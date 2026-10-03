@@ -1,35 +1,14 @@
-[17716:16220:0927/152040.969:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17716:16220:0927/152041.266:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[17716:14692:0927/152041.413:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[17716:16220:0927/152041.547:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17716:14692:0927/152053.751:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17716:14692:0927/152053.754:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17716:14692:0927/152053.755:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17716:14692:0927/152053.756:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17716:17432:0927/152054.510:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17716:17432:0927/152054.515:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26456:21260:0927/152054.668:ERROR:backend_impl.cc(989)] Critical error found -8
-[26456:21260:0927/152054.780:WARNING:storage_block-inl.h(138)] Failed data load.
-[26456:21260:0927/152054.780:WARNING:storage_block-inl.h(138)] Failed data load.
-[26456:21260:0927/152054.783:ERROR:entry_impl.cc(955)] Failed to save user data
-[19476:24172:0927/152055.078:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7CDC0CAC997A28BD997FC917C710BBC7 will be ignored
-[17264:21328:0927/152640.499:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-C0060D2146115AAEA71576F1158FC198 will be ignored
-[17716:16220:0927/233138.530:ERROR:device_event_log_impl.cc(196)] [23:31:38.515] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[17716:16220:0927/233141.577:ERROR:device_event_log_impl.cc(196)] [23:31:41.555] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[17716:16220:0927/234534.154:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/234539.070:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235235.962:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235511.935:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235547.238:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235552.277:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235557.344:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235602.344:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235612.397:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235617.433:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235627.498:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235632.526:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235807.925:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235812.980:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235818.030:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235823.037:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17716:16220:0927/235828.037:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19380:27020:1002/163204.186:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19380:22296:1002/163204.601:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19380:27020:1002/163204.831:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19380:22296:1002/163210.280:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19380:22296:1002/163210.291:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19380:22296:1002/163210.292:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19380:22296:1002/163210.293:WARNING:leveldb_database.cc(141)] Unable to open L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19380:22296:1002/163212.194:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19380:22296:1002/163212.196:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15112:24080:1002/163212.529:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D81F2C8770689B390F8641D5008C309A will be ignored
+[26228:11856:1002/163213.162:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-4D1136DD6E807897BE254183E6FF58B4 will be ignored
+[19380:27020:1003/000841.992:ERROR:device_event_log_impl.cc(196)] [00:08:41.941] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19380:27020:1003/000845.130:ERROR:device_event_log_impl.cc(196)] [00:08:45.130] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19380:27020:1003/001254.665:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
