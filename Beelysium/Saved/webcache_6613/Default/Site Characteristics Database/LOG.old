@@ -1,5 +1,1 @@
-2026/09/27-15:20:41.735 3964 Log #3: 4 ops saved to Table #4 OK
-2026/09/27-15:20:41.737 3964 Archiving L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/09/27-15:20:41.737 3964 Table #4: 4 entries OK
-2026/09/27-15:20:41.759 3964 Archiving L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/09/27-15:20:41.848 3964 **** Repaired leveldb L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
+2026/09/27-15:20:41.857 3964 Reusing MANIFEST L:\Github\BeelysiumV1.2\Beelysium\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
