@@ -6,9 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"L:/Github/BeelysiumV1.2/Beelysium/Content/SkillTree/UI/WBP_SkillNode.uasset",
-				"L:/Github/BeelysiumV1.2/Beelysium/Content/SkillTree/UI/WB_SkillNode.uasset",
 				"L:/Github/BeelysiumV1.2/Beelysium/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"L:/Github/BeelysiumV1.2/Beelysium/Content/SkillTree/UI/WBP_SkillTree.uasset",
+				"L:/Github/BeelysiumV1.2/Beelysium/Content/SkillTree/Classes/BPDA_SkillAsset.uasset",
+				"L:/Github/BeelysiumV1.2/Beelysium/Content/SkillTree/Classes/BPDA_IncreaseHP.uasset",
+				"L:/Github/BeelysiumV1.2/Beelysium/Content/SkillTree/SkillAssets/UpHP10.uasset",
+				"L:/Github/BeelysiumV1.2/Beelysium/Content/SkillTree/UI/WB_SkillNode.uasset",
 				"C:/Users/bodie/Documents/GitHub/BeelysiumV1.2/Beelysium/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset",
 				"C:/Users/bodie/Documents/GitHub/BeelysiumV1.2/Beelysium/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
 				"C:/Users/bodie/Documents/GitHub/BeelysiumV1.2/Beelysium/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset",
